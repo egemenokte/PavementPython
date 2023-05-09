@@ -399,7 +399,7 @@ def readxlsx(path,stick=0.25): #stick in meters, size of filter
     return road_profile
 
 def animate():
-    
+    a=1
 
 def spring(start, end, nodes, width):
     """!
