@@ -1,3 +1,3 @@
 # PavementPython
-Pavement Analysis Tools Using Python. Currently includes FWD and GPR and Life Cycle Cost Analysis
+Pavement Analysis Tools Using Python. Currently includes IRI simulations, FWD and GPR and Life Cycle Cost Analysis
 
