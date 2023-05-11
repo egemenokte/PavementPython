@@ -4,5 +4,5 @@ IRI is calculated using Sroubek, M. Sorel, J. Zak: Precise International Roughne
 
 Please run the IRIPython.ipynb file on Colab to see the results
 
-
+![Trim](https://github.com/egemenokte/PavementPython/assets/45702242/e82b8a6b-439a-4354-a32c-18e56ccff2da)
 
