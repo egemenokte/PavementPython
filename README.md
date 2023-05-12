@@ -1,5 +1,5 @@
 # PavementPython
-Educational pavement analysis tools built using Python.
+Educational pavement analysis tools built using Python. Currently includes:
 *   IRI simulations
 *   Falling Weight Deflectometer Analysis
 *   Ground Penetrating Radar
