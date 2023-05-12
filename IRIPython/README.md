@@ -1,6 +1,6 @@
 # IRI Python
 A tool for calculating IRI from road profiles and visualizing the motion of the quarter car model. Written for instructional purposes only. 
-IRI is calculated using Sroubek, M. Sorel, J. Zak: Precise International Roughness Index Calculation. Int. J. Pavement Res. Technol. (2021) 
+IRI is calculated using [Sroubek, M. Sorel, J. Zak: Precise International Roughness Index Calculation. Int. J. Pavement Res. Technol. (2021)](https://github.com/michalsorel/iri) 
 
 Please run the [IRIPython.ipynb](https://colab.research.google.com/github/egemenokte/PavementPython/blob/main/IRIPython/IRIPython.ipynb) file on Colab to see the results. Alternatively, you can run IRI_Plot.py with the dependencies
 
