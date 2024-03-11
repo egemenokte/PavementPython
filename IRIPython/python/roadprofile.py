@@ -104,14 +104,3 @@ class RoadProfile(object):
             raise ValueError("Profile name is not predefined.")
 
 
-if __name__ == '__main__':
-    # Create a RoadProfile instance
-    testprofile = RoadProfile()
-    # Get a road profile
-    print testprofile.generate(1, 0.1)
-    # Set profile instance to E
-    testprofile.set_profile_class("E")
-    # Regenerate the road profile with new class
-    print testprofile.generate(1, 0.1)
-    # Set profile to A and regenerate a road profile
-    print testprofile.get_profile_by_class("A", 1, 0.1)
